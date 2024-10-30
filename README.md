@@ -64,5 +64,3 @@ python heart_attack_prediction.py
 ```
 
 ---
-
-This README outlines the functionality and performance of the SVM classifiers on the heart attack dataset. You can further expand this by adding additional sections like limitations or potential future improvements.
